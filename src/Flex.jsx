@@ -38,7 +38,7 @@ export default function Flex() {
                 <dt className="text-base leading-7 text-gray-300">Invited</dt>
                 <dd className="text-2xl font-bold leading-9 tracking-tight text-white">All the students || Staff</dd>
               </div>
-              <div className="flex flex-col-reverse ">
+              <div className="flex flex-col-reverse">
                 <dt className="text-base leading-7 text-gray-300">Dress code</dt>
                 <dd className="text-2xl font-bold leading-9 tracking-tight text-white">Formal</dd>
               </div>
