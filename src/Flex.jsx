@@ -1,5 +1,5 @@
 import React from 'react';
-import Bg from './assets/bg.jpg';
+import Bg from './assets/bg.webp';
 
 export default function Flex() {
   

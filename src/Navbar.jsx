@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
-import logo from './assets/LOGO.png'
-import CvPdf from './cv.pdf';
+import logo from './assets/LOGO.webp'
+
 
 export default function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);

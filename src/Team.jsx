@@ -1,8 +1,8 @@
 import React from 'react'
-import Samroz from './assets/Samroz.jpeg'
-import Sami from './assets/Sami.jpeg'
-import Mubara from './assets/Mubara.jpeg'
-import Laiba_Arshad from './assets/Laiba_Arshad.jpeg'
+import Samroz from './assets/Samroz.webp'
+import Sami from './assets/Sami.webp'
+import Mubara from './assets/Mubara.webp'
+import Laiba_Arshad from './assets/Laiba_Arshad.webp'
 export default function Team() {
   return (
     <div id='team'>
