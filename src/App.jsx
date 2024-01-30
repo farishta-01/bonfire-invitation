@@ -12,21 +12,24 @@ function App() {
   
 
   return (
-  <  >
+ 
   <div className='bg-gray-800' >
+     <  >
   <Navbar />
  
 
   
     <Flex/>
+    <div className="container mx-auto mt-8">
     <Team/>
 
 
      <Ticket/>
-   
+     </div>
   <Conatct/>
+ </>
    </div>
-    </>
+   
   )
 }
 
