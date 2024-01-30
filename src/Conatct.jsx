@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from './assets/LOGO.png'
+import logo from './assets/LOGO.webp'
 export default function Conatct() {
   return (
     <div id='contact'>
